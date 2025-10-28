@@ -1,3 +1,9 @@
+# Introduction
+
+The recruitment task was to prepare a solution for the classification problem of detecting hypertrophic cardiomyopathy (cardiomegaly) based on the provided features. After a brief research, I decided to select the three machine learning models I considered best suited for the task: Logistic Regression, Support Vector Machine, and Random Forest. I evaluated each model separately and then compared their performance to identify the best one. The results and explanations are provided in this file.
+
+---
+
 # Model Evaluation 
 
 ## 1. Logistic Regression
@@ -36,7 +42,7 @@ Random Forests are usually solid on small datasets and can handle non-linear rel
 
 ---
 
-## Model Comparison
+# Model Comparison
 
 | Model | Accuracy | Precision | Recall | F1-score |
 |--------|-----------|------------|----------|-----------|
